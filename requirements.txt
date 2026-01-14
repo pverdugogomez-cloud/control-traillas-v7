@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+fastkml
+shapely
+pyproj
+xlsxwriter
+openpyxl
+matplotlib
+lxml
