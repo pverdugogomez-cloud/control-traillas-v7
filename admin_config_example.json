@@ -1,0 +1,12 @@
+{
+    "admin_email": "admin@example.com",
+    "admin_pass": "change_me",
+    "api_key": "YOUR_GEMINI_API_KEY_HERE",
+    "enable_ai_comments": false,
+    "ai_model": "gemini-1.5-flash",
+    "ai_instructions": "Escribe aquí instrucciones personalizadas para la IA...",
+    "valid_models": [
+        "gemini-1.5-flash",
+        "gemini-pro"
+    ]
+}
