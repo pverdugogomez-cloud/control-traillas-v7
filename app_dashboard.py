@@ -823,7 +823,7 @@ def main():
             insights = [] # Ensure insights is defined even if df_ciclos is empty
         
         if df_ciclos.empty:
-            st.info("Esperando datos... Cargue KMZ Carga, KMZ Descarga y CSV GPS.", icon="�")
+            st.info("Esperando datos... Cargue KMZ Carga, KMZ Descarga y CSV GPS.")
         else:
             # --- TAB 1: RESULTADOS ---
             with tab1:
@@ -1150,3 +1150,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
